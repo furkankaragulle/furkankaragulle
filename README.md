@@ -4,7 +4,7 @@
 <p dir="auto">
 <a href="https://www.linkedin.com/in/furkan-karagulle/" rel="nofollow"><img alt="buse-yal%C3%A7%C4%B1n-b41257178" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="height: 40px; width: 40px; max-width: 100%;"></a>   
 <a href="https://www.instagram.com/furkan.karagullee/" rel="nofollow"><img alt="coderrwoman" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="height: 40px; width: 40px; max-width: 100%;"></a>  
-<a href="https://bsseylcin.medium.com/" rel="nofollow"><img alt="bsseylcin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="height: 40px; width: 40px; max-width: 100%;"></a>  
+<a href="https://twitter.com/krgullefurkan/" rel="nofollow"><img alt="bsseylcin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="height: 40px; width: 40px; max-width: 100%;"></a>  
   
   
 </p> 
